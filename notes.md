@@ -46,3 +46,10 @@ Now you are ready to access jenkins
 ![preview](./images.md/8.md.png)
 final dashboard of jenkins
 ![preview](./images.md/9.md.png)
+
+
+## Create one item impliment pipeline
+![preview](images.md/10.md.png)
+![preview](images.md/11.md.png)
+![preview](images.md/12.md.png)
+![preview](images.md/13.md.png)
