@@ -53,3 +53,18 @@ final dashboard of jenkins
 ![preview](images.md/11.md.png)
 ![preview](images.md/12.md.png)
 ![preview](images.md/13.md.png)
+
+## Create one Spring-Pet-Clinic project pipeline Through Github in freeStyle
+
+# In this we need maven you can istall maven
+# maven version 3.9.3 maven
+
+
+![preview](./images.md/18.md.png)
+![preview](./images.md/19.md.png)
+![preview](./images.md/20.md.png)
+![preview](./images.md/21.md.png)
+![preview](./images.md/22.md.png)
+
+# project successfully Running
+![preview](./images.md/23.md.png)
