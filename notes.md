@@ -22,7 +22,7 @@ sudo systemctl status jenkins
 ---
 ![preview](images.md/2.md.png)
 
-Give to the vm to inbound port upto all ports on running
+Give to the vm to inbound port change allow to 8080 port (or else) give  all ports on running using (*)
 ![preview](./images.md/3.md.png)
 
 Now you can check on jenkins on using your publicip address through following commond
